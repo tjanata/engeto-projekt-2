@@ -6,3 +6,5 @@ email: tomas.janata@nempk.cz
 discord: TomášJ#3088
 """
 
+# Variables
+
